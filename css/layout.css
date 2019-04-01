@@ -42,18 +42,18 @@
 
 .col-end-left {
     float: left;
-    width: 10%;
+    width: 25%;
     margin: 10px 0 0 0;
 }
 
 .col-end-right {
   float: left;
-  width: 10%;
+  width: 25%;
   margin: 10px 0 0 0;
 }
 
 .col-middle {
   float: left;
-  width: 10%;
+  width: 25%;
   margin: 10px 17px 0 17px;
 }
