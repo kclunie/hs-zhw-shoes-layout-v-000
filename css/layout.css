@@ -25,5 +25,5 @@
 /* Positioning Classes */
 
 .test {
-  
+  column-count: 3;
 }
